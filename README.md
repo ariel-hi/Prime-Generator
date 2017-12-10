@@ -1,2 +1,2 @@
-# Primes
+# Prime Generator
 Generate primes efficiently.
