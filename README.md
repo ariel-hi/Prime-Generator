@@ -9,3 +9,4 @@ Generate primes efficiently by testing against previously found primes and takin
 * Good flow with simple and natural inputs
 
 ![Screenshot](https://i.imgur.com/FKrddP6.png)
+![Screenshot](https://i.imgur.com/jxndBzP.png)
